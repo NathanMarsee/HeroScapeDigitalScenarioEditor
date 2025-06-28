@@ -1,0 +1,1 @@
+{"name":"test1","description":"","goal":"","setup":"","victory":"","specialRules":"","terrainPieces":[{"Key":{"x":16,"y":0,"z":15,"magnitude":21.9317131,"sqrMagnitude":481},"Value":{"terrainType":0,"pieceSize":2,"rotations":0}},{"Key":{"x":16,"y":1,"z":15,"magnitude":21.9544983,"sqrMagnitude":482},"Value":{"terrainType":0,"pieceSize":1,"rotations":-1}}]}

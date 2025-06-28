@@ -1,0 +1,35 @@
+Kit: Lands of Valhalla Expansion
+GrassTile24: 2
+GrassTile7: 5
+GrassTile3: 3
+GrassTile2: 7
+GrassTile1: 10
+StoneTile24: 2
+StoneTile7: 3
+StoneTile3: 2
+StoneTile2: 6
+StoneTile1: 5
+SandTile24: 2
+SandTile7: 3
+SandTile3: 2
+SandTile2: 6
+SandTile1: 5
+WaterTile: 0
+
+Kit: Basic
+GrassTile24: 0
+GrassTile7: 0
+GrassTile3: 0
+GrassTile2: 0
+GrassTile1: 1
+StoneTile24: 1
+StoneTile7: 0
+StoneTile3: 0
+StoneTile2: 0
+StoneTile1: 0
+SandTile24: 0
+SandTile7: 1
+SandTile3: 0
+SandTile2: 0
+SandTile1: 0
+WaterTile: 1
